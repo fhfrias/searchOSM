@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SearchOpenStreetMaps</string>
+
+    <string-array name="hola">
+        <item>holaa</item>
+        <item>holaaa</item>
+        <item>holaaa</item>
+        <item>adios</item>
+        <item>adios</item>
+        <item>adios</item>
+        <item>luego</item>
+        <item>luego00</item>
+        <item>luego</item>
+        <item>luego00</item>
+        <item>luego</item>
+        <item>luego00</item>
+        <item>luego</item>
+        <item>luego00</item>
+        <item>luego</item>
+        <item>luego00</item>
+        <item>luego</item>
+        <item>luego00</item>
+        <item>luego</item>
+        <item>luego00</item>
+    </string-array>
+</resources>
